@@ -1,1 +1,2 @@
 from .linear_skill_estimator import LinearSkillEstimator
+from .lexicographic_skill_estimator import LexicographicSkillEstimator
